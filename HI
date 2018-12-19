@@ -1,1 +1,9 @@
 print "hi"
+#Program to print prime numbers
+i = 1
+A = input ("enter value of A: ")
+
+if i <= A :
+	P = A / i
+	print P
+	i = i + 1
