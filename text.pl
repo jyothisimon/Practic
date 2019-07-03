@@ -1,2 +1,2 @@
-print "hi"
+#! /usr/bin/perl
 ptrint lc PaRaMJYOTHI
